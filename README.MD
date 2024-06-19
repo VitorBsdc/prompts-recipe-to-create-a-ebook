@@ -82,4 +82,4 @@ vitor-benedito">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/VitorBsdc)
+⌨️ com 💜 por [Vitor Benedito](https://github.com/VitorBsdc)
